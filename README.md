@@ -1,11 +1,11 @@
 # CMPUT 301: Lab 8 Participation Exercise
 
 ## Student Details
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Dominic Reyes`
+- **CCID:** `dcreyes1`
 
 ## References and Resources
-List any resources used here, or simply put `N/A` if not applicable.
+Not external references and resources were used
 
 ## Verbal Collaboration
-List students' names and CCIDs here, or simply put `N/A` if not applicable. 
+I did not collaborate with any other students
